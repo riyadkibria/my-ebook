@@ -1,0 +1,104 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta content="cover-image" name="cover"/>
+		<dc:title>Best Loser Wins</dc:title>
+		<dc:creator>Tom  Hougaard</dc:creator>
+		<dc:subject>Why Normal Thinking Never Wins the Trading Game</dc:subject>
+		<dc:description>&lt;i&gt;Best Loser Wins&lt;/i&gt; is an intimate insight into one of the most prolific high-stake retail traders in the world. Tom Hougaard is the winner of multiple trading competitions and on one occasion traded £25,000 into more than £1 million over the course of a year. While the average retail trader risks £10 per point in the underlying asset, Tom Hougaard frequently risks up to £3,500 per point. This risk exposure requires a mindset that is out of the ordinary. Normal thinking leads to normal results. For exceptional results, traders must think differently. This book will guide and inspire you in ways no other trading book has. It is not about strategies and money management. It is about mind management. Tom Hougaard provides a unique and refreshingly personal account of how an ordinary trader elevated his game to incredible heights by focusing as much on his mental approach as on his technical analysis. &lt;i&gt;Best Loser Wins&lt;/i&gt; explains how you, by thinking differently when you are...</dc:description>
+		<dc:publisher>Harriman House</dc:publisher>
+		<dc:date>2022</dc:date>
+		<dc:source/>
+		<dc:relation/>
+		<dc:coverage/>
+		<dc:rights>Copyright © Tom Hougaard</dc:rights>
+		<dc:language>en-GB</dc:language>
+		<dc:identifier id="bookid">978-0-85719-823-5</dc:identifier>
+	</metadata>
+	<manifest>
+   		<item href="CoverImage.xhtml" id="cover" media-type="application/xhtml+xml"/>
+   		<item href="halftitle.xhtml" id="halftitle" media-type="application/xhtml+xml"/>
+		<item href="title.xhtml" id="title" media-type="application/xhtml+xml"/>
+		<item href="copyright.xhtml" id="copyright" media-type="application/xhtml+xml"/>
+		<item href="dedication.xhtml" id="dedication" media-type="application/xhtml+xml"/>
+		<item href="contents.xhtml" id="contents" media-type="application/xhtml+xml"/>
+		<item href="markets.xhtml" id="markets" media-type="application/xhtml+xml"/>
+		<item href="preface.xhtml" id="preface" media-type="application/xhtml+xml"/>
+		<item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/>
+		<item href="chapter01.xhtml" id="chapter1" media-type="application/xhtml+xml"/>
+		<item href="chapter02.xhtml" id="chapter2" media-type="application/xhtml+xml"/>
+		<item href="chapter03.xhtml" id="chapter3" media-type="application/xhtml+xml"/>
+		<item href="chapter04.xhtml" id="chapter4" media-type="application/xhtml+xml"/>
+		<item href="chapter05.xhtml" id="chapter5" media-type="application/xhtml+xml"/>
+		<item href="chapter06.xhtml" id="chapter6" media-type="application/xhtml+xml"/>
+		<item href="chapter07.xhtml" id="chapter7" media-type="application/xhtml+xml"/>
+		<item href="chapter08.xhtml" id="chapter8" media-type="application/xhtml+xml"/>
+		<item href="chapter09.xhtml" id="chapter9" media-type="application/xhtml+xml"/>
+		<item href="chapter10.xhtml" id="chapter10" media-type="application/xhtml+xml"/>
+		<item href="chapter11.xhtml" id="chapter11" media-type="application/xhtml+xml"/>
+		<item href="author.xhtml" id="author" media-type="application/xhtml+xml"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="image/Cover.jpg" id="cover-image" media-type="image/jpeg"/>
+		<item href="css/chapter.css" id="chapter.css" media-type="text/css"/>
+		<item href="image/086.jpg" id="x086" media-type="image/jpeg"/>
+		<item href="image/149.jpg" id="x149" media-type="image/jpeg"/>
+		<item href="image/249.jpg" id="x249" media-type="image/jpeg"/>
+		<item href="image/fig1.jpg" id="xfig1" media-type="image/jpeg"/>
+		<item href="image/fig10.jpg" id="xfig10" media-type="image/jpeg"/>
+		<item href="image/fig11.jpg" id="xfig11" media-type="image/jpeg"/>
+		<item href="image/fig12.jpg" id="xfig12" media-type="image/jpeg"/>
+		<item href="image/fig13.jpg" id="xfig13" media-type="image/jpeg"/>
+		<item href="image/fig14.jpg" id="xfig14" media-type="image/jpeg"/>
+		<item href="image/fig15.jpg" id="xfig15" media-type="image/jpeg"/>
+		<item href="image/fig16.jpg" id="xfig16" media-type="image/jpeg"/>
+		<item href="image/fig17.jpg" id="xfig17" media-type="image/jpeg"/>
+		<item href="image/fig18.jpg" id="xfig18" media-type="image/jpeg"/>
+		<item href="image/fig19.jpg" id="xfig19" media-type="image/jpeg"/>
+		<item href="image/fig2.jpg" id="xfig2" media-type="image/jpeg"/>
+		<item href="image/fig20.jpg" id="xfig20" media-type="image/jpeg"/>
+		<item href="image/fig21.jpg" id="xfig21" media-type="image/jpeg"/>
+		<item href="image/fig22.jpg" id="xfig22" media-type="image/jpeg"/>
+		<item href="image/fig23.jpg" id="xfig23" media-type="image/jpeg"/>
+		<item href="image/fig24.jpg" id="xfig24" media-type="image/jpeg"/>
+		<item href="image/fig25.jpg" id="xfig25" media-type="image/jpeg"/>
+		<item href="image/fig26.jpg" id="xfig26" media-type="image/jpeg"/>
+		<item href="image/fig27.jpg" id="xfig27" media-type="image/jpeg"/>
+		<item href="image/fig28.jpg" id="xfig28" media-type="image/jpeg"/>
+		<item href="image/fig3.jpg" id="xfig3" media-type="image/jpeg"/>
+		<item href="image/fig4.jpg" id="xfig4" media-type="image/jpeg"/>
+		<item href="image/fig5.jpg" id="xfig5" media-type="image/jpeg"/>
+		<item href="image/fig6.jpg" id="xfig6" media-type="image/jpeg"/>
+		<item href="image/fig7.jpg" id="xfig7" media-type="image/jpeg"/>
+		<item href="image/fig8.jpg" id="xfig8" media-type="image/jpeg"/>
+		<item href="image/fig9.jpg" id="xfig9" media-type="image/jpeg"/>
+		<item href="image/logo.jpg" id="xlogo" media-type="image/jpeg"/>
+		<item href="image/logo1.jpg" id="xlogo1" media-type="image/jpeg"/>
+
+	</manifest>
+	<spine toc="ncx">
+      		<itemref idref="cover"/>
+       		<itemref idref="halftitle"/>
+       		<itemref idref="title"/>
+       		<itemref idref="copyright"/>
+       		<itemref idref="dedication"/>
+       		<itemref idref="contents"/>
+       		<itemref idref="markets"/>
+       		<itemref idref="preface"/>
+       		<itemref idref="introduction"/>
+       		<itemref idref="chapter1"/>
+       		<itemref idref="chapter2"/>
+       		<itemref idref="chapter3"/>
+       		<itemref idref="chapter4"/>
+       		<itemref idref="chapter5"/>
+       		<itemref idref="chapter6"/>
+       		<itemref idref="chapter7"/>
+       		<itemref idref="chapter8"/>
+       		<itemref idref="chapter9"/>
+       		<itemref idref="chapter10"/>
+       		<itemref idref="chapter11"/>
+       		<itemref idref="author"/>
+
+</spine>
+	<guide>
+	   <reference href="CoverImage.xhtml" title="Cover" type="text"/>
+	</guide>
+</package>

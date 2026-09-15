@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="597daa85-ef44-49c9-ae55-db185d0039d4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Grokking Algorithms: An illustrated guide for programmers and other curious people</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u09a729a1-6f2e-417b-b701-bf40c1e85642" playOrder="1">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="kindle_split_001.html"/>
+    </navPoint>
+    <navPoint id="udc38203a-f650-4a89-b407-758c2b2811c5" playOrder="2">
+      <navLabel>
+        <text>Brief Table of Contents</text>
+      </navLabel>
+      <content src="kindle_split_002.html"/>
+    </navPoint>
+    <navPoint id="u8913ba9e-cdf4-462d-87c1-ed544e5ca087" playOrder="3">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="kindle_split_003.html"/>
+    </navPoint>
+    <navPoint id="ud76cd352-6ede-4c1e-88de-8c1b9feaab4c" playOrder="4">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="kindle_split_004.html"/>
+    </navPoint>
+    <navPoint id="u0f3fe89d-60be-4ac1-8868-aec3204a1d6a" playOrder="5">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="kindle_split_005.html"/>
+    </navPoint>
+    <navPoint id="uba3e7322-8852-49f6-ad44-c6c3239e3ccf" playOrder="6">
+      <navLabel>
+        <text>About this Book</text>
+      </navLabel>
+      <content src="kindle_split_006.html"/>
+    </navPoint>
+    <navPoint id="u5075af50-edc0-4e3f-bba2-30accd0823f0" playOrder="7">
+      <navLabel>
+        <text>Chapter 1. Introduction to Algorithms</text>
+      </navLabel>
+      <content src="kindle_split_007.html"/>
+    </navPoint>
+    <navPoint id="u95ee4286-13d1-460c-b858-de412a98534f" playOrder="8">
+      <navLabel>
+        <text>Chapter 2. Selection Sort</text>
+      </navLabel>
+      <content src="kindle_split_008.html"/>
+    </navPoint>
+    <navPoint id="u0c133f45-2342-40ea-8585-54c8f9099c1f" playOrder="9">
+      <navLabel>
+        <text>Chapter 3. Recursion</text>
+      </navLabel>
+      <content src="kindle_split_009.html"/>
+    </navPoint>
+    <navPoint id="u6fe6ab83-78f3-47dd-b4ba-1f75856afcfc" playOrder="10">
+      <navLabel>
+        <text>Chapter 4. Quicksort</text>
+      </navLabel>
+      <content src="kindle_split_010.html"/>
+    </navPoint>
+    <navPoint id="ud8b62d27-3855-44d4-9e05-284acd655dcd" playOrder="11">
+      <navLabel>
+        <text>Chapter 5. Hash Tables</text>
+      </navLabel>
+      <content src="kindle_split_011.html"/>
+    </navPoint>
+    <navPoint id="u54eb5c14-cfa0-474e-b789-5667b05b9891" playOrder="12">
+      <navLabel>
+        <text>Chapter 6. Breadth-first Search</text>
+      </navLabel>
+      <content src="kindle_split_012.html"/>
+    </navPoint>
+    <navPoint id="u1e60c45b-855e-44c7-a09d-e7016d96faa6" playOrder="13">
+      <navLabel>
+        <text>Chapter 7. Dijkstra’s algorithm</text>
+      </navLabel>
+      <content src="kindle_split_013.html"/>
+    </navPoint>
+    <navPoint id="u1c4b67a5-2b88-4f70-96c0-97d032451610" playOrder="14">
+      <navLabel>
+        <text>Chapter 8. Greedy algorithms</text>
+      </navLabel>
+      <content src="kindle_split_014.html"/>
+    </navPoint>
+    <navPoint id="ub0d56b53-c8e6-4529-ba6c-a1cf71bd922c" playOrder="15">
+      <navLabel>
+        <text>Chapter 9. Dynamic programming</text>
+      </navLabel>
+      <content src="kindle_split_015.html"/>
+    </navPoint>
+    <navPoint id="u6421f1b4-9219-40b9-934c-4c550345446c" playOrder="16">
+      <navLabel>
+        <text>Chapter 10. K-nearest neighbors</text>
+      </navLabel>
+      <content src="kindle_split_016.html"/>
+    </navPoint>
+    <navPoint id="u7cdfb8c8-b5a8-4af5-90f5-99b011835b0b" playOrder="17">
+      <navLabel>
+        <text>Chapter 11. Where to go next</text>
+      </navLabel>
+      <content src="kindle_split_017.html"/>
+    </navPoint>
+    <navPoint id="u34c04425-5f27-4f41-be8e-c4c80100402f" playOrder="18">
+      <navLabel>
+        <text>Appendix. Answers to Exercises</text>
+      </navLabel>
+      <content src="kindle_split_018.html"/>
+    </navPoint>
+    <navPoint id="u6e164c0a-c45d-4252-99c4-5c558cf21f10" playOrder="19">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="kindle_split_019.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

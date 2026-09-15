@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="978-0-85719-823-5" />
+		<meta name="dtb:depth" content="0" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+	<docTitle>
+		<text>Best Loser Wins</text>
+	</docTitle>
+	<docAuthor>
+	   <text>Tom Hougaard</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Title</text>
+			</navLabel>
+			<content src="title.xhtml" />
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Copyright</text>
+			</navLabel>
+			<content src="copyright.xhtml" />
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Dedication</text>
+			</navLabel>
+			<content src="dedication.xhtml" />
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Contents&#x2003;</text>
+			</navLabel>
+		<content src="contents.xhtml" />
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Dear Markets</text>
+			</navLabel>
+			<content src="markets.xhtml#mar-1" />
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Preface</text>
+			</navLabel>
+			<content src="preface.xhtml#pre-1" />
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Introduction</text>
+			</navLabel>
+			<content src="introduction.xhtml#int-1" />
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Liar&#x2019;s Poker</text>
+			</navLabel>
+			<content src="chapter01.xhtml#cha-1" />
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>The Trading Floor</text>
+			</navLabel>
+			<content src="chapter02.xhtml#cha-2" />
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>Everyone Is a Chart Expert</text>
+			</navLabel>
+			<content src="chapter03.xhtml#cha-3" />
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>The Curse of Patterns</text>
+			</navLabel>
+			<content src="chapter04.xhtml#cha-4" />
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>Fighting My Humanness</text>
+			</navLabel>
+			<content src="chapter05.xhtml#cha-5" />
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>Disgust</text>
+			</navLabel>
+			<content src="chapter06.xhtml#cha-6" />
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>The Drifter Mind</text>
+			</navLabel>
+			<content src="chapter07.xhtml#cha-7" />
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>Trading Through a Slump</text>
+			</navLabel>
+			<content src="chapter08.xhtml#cha-8" />
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>Embracing Failure</text>
+			</navLabel>
+			<content src="chapter09.xhtml#cha-9" />
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>Best Loser Wins</text>
+			</navLabel>
+			<content src="chapter10.xhtml#cha-10" />
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>The Ideal Mindset</text>
+			</navLabel>
+			<content src="chapter11.xhtml#cha-11" />
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>About the Author</text>
+			</navLabel>
+			<content src="author.xhtml#aut-1" />
+		</navPoint>
+		</navMap>
+		</ncx>
+		
