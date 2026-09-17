@@ -1,6 +1,0 @@
-# PART IV
-
-## Conclusion
-
-
-

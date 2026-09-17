@@ -1,6 +1,0 @@
-# 25_chapter015
-
-## PROS AND CONS OF SYSTEM TRADING
-
-
-
